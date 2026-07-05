@@ -1,0 +1,102 @@
+{
+    "tabs": [
+        {
+            "name": "Player",
+            "content": [
+                {
+                    "label": "Invincibility",
+                    "type": "checkbox",
+                    "id": "invincibility"
+                },
+                {
+                    "label": "Flight",
+                    "type": "checkbox",
+                    "id": "flight"
+                },
+                {
+                    "label": "Noclip",
+                    "type": "checkbox",
+                    "id": "noclip"
+                },
+                {
+                    "label": "Infinite Ammo",
+                    "type": "checkbox",
+                    "id": "infammo"
+                },
+                {
+                    "label": "Landmines",
+                    "type": "checkbox",
+                    "id": "landmines"
+                },
+                {
+                    "label": "Movement Speed",
+                    "type": "number",
+                    "id": "movespeed"
+                },
+                {
+                    "label": "Jump Height",
+                    "type": "number",
+                    "id": "jumpheight"
+                }
+            ]
+        },
+        {
+            "name": "Game",
+            "content": [
+                {
+                    "label": "Gravity",
+                    "type": "number",
+                    "id": "gravity"
+                },
+                {
+                    "label": "Allow Inactivity",
+                    "type": "checkbox",
+                    "id": "inactivity"
+                },
+                {
+                    "label": "No Vent Timer",
+                    "type": "checkbox",
+                    "id": "instavent"
+                },
+                {
+                    "label": "Infinite Safezone",
+                    "type": "checkbox",
+                    "id": "infsafezone"
+                },
+                {
+                    "label": "Allow Higher FPS",
+                    "type": "checkbox",
+                    "id": "highfps"
+                },
+                {
+                    "label": "\"Free\" Chat",
+                    "type": "checkbox",
+                    "id": "freechat"
+                },
+                {
+                    "label": "Set Weapon",
+                    "type": "number",
+                    "id": "setweapon"
+                },
+                {
+                    "label": "Change Skin",
+                    "type": "number",
+                    "id": "changeskin"
+                },
+                {
+                    "label": "All Perks",
+                    "type": "checkbox",
+                    "id": "allperks"
+                },
+                {
+                    "label": "Max Speed/Protection",
+                    "type": "checkbox",
+                    "id": "maxstats"
+                },
+                {
+                    "label": 
+                }
+            ]
+        }
+    ]
+}
