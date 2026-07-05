@@ -1,9 +1,10 @@
 {
     "name": "Mint | Robot Destructor Client",
-    "id": "rd-mint",
+    "id": "rd-mint-default",
     "version": "1.0.0",
     "author": "directprogrammer1",
     "description": "Mint mod client config for Robot Destructor",
+    "use-sb3": true,
     
     "license": "MIT",
 
@@ -11,8 +12,12 @@
         "client": "/main/client.js",
         "main": "/main/main.js"
     },
-
     "links": {
         "repository": "https://github.com/directprogrammer1/rd-mint-config"
+    },
+    "paths": {
+        "client": "/client/client.js",
+        "sb3": "/client/project.sb3",
+        "ui": "/config/ui.json"
     }
 }
